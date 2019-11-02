@@ -11,5 +11,8 @@ String CustName;
   {
     return CustName;
   }
+  public void showcust()
+  {
+  }
   
 }
