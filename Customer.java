@@ -7,5 +7,9 @@ String CustName;
   {
   return custId;
   }
+  public String getCustName()
+  {
+    return CustName;
+  }
   
 }
