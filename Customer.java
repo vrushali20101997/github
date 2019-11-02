@@ -18,5 +18,9 @@ String CustName;
     return CustName;
   }
   
+  public void getcust()
+  {
+  }
+  
 
 }
