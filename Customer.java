@@ -7,8 +7,16 @@ String CustName;
   {
   return custId;
   }
+
    public int setCustId()
   {
   return custId;
   }
+
+  public String getCustName()
+  {
+    return CustName;
+  }
+  
+
 }
