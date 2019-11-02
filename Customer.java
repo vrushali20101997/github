@@ -17,10 +17,16 @@ String CustName;
   {
     return CustName;
   }
+
   
   public void getcust()
   {
   }
   xdffdhfhmj
 
+
+  public void showcust()
+  {
+  }
+  dgrgtrr
 }
